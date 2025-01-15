@@ -20,3 +20,4 @@
 
 ### Resutados
 
+ ![passwd](https://github.com/user-attachments/assets/589a1759-6ffb-49de-9e6b-ccdd66bbf206)
